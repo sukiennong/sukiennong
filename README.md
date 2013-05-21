@@ -1,7 +1,7 @@
 sukiennong
 ==========
 
-sukiennong.vn
+http://sukiennong.vn
 
 Add: 4 Lang Ha, HaNoi,Vietnam
 
